@@ -26,3 +26,7 @@ func GetData() string {
 func GetData2() string {
 	return string(data)
 }
+
+func GetData3() string {
+	return string(data)
+}
