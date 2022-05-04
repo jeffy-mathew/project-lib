@@ -22,3 +22,7 @@ func init() {
 func GetData() string {
 	return string(data)
 }
+
+func GetData2() string {
+	return string(data)
+}
